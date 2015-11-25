@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">geo_fencing</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_label">ADD GEOFENCES</string>
+</resources>
